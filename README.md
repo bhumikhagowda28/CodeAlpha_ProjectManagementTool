@@ -1,6 +1,6 @@
 # Project Management Tool
 
-A full-stack project management web application developed as part of the CodeAlpha Full Stack Development Internship.
+A full-stack project management web application.
 
 ## Features
 
@@ -42,7 +42,7 @@ A full-stack project management web application developed as part of the CodeAlp
 ## Project Structure
 
 ```text
-CodeAlpha_ProjectManagementTool/
+ProjectManagementTool/
 │
 ├── frontend/
 │   ├── src/
